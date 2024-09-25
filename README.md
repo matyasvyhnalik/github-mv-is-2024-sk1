@@ -3,3 +3,4 @@
 ## toto je změna provedená na lokále
 
 Matyas Vyhnalik
+v ramci predmetu IS
