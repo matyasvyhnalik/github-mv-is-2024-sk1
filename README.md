@@ -9,3 +9,5 @@ v ramci predmetu IS
 Test z lokálu 2024-10-02, 9:20
 
 Test z githubu 2024-10-02, 9:35 (Matyáš Vyhnalik)
+
+Druhy test z lokalu na git
