@@ -4,3 +4,4 @@
 
 Matyas Vyhnalik
 v ramci predmetu IS
+Test z lokkálu 2024-10-02,9:20
